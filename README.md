@@ -1,6 +1,6 @@
 ## Sunny's GitHub 👋
 
-- THE LOCA (BackEnd Developer, 2021.08~)
+- THE LOCA (BackEnd Developer, 2021.08 ~ )
 
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
